@@ -1,5 +1,4 @@
 -- Created by Waikiki for my server SAURP! Feel free to use this in your server
--- The original base for this script was pongo1231 which is why some stuff may seem similar. I have changed several things to where it is nothing like his! Nevertheless, credit goes to him for the base script!
 
 -- AFK Kick Time Limit (in seconds)
 secondsUntilKick = 1200 -- 20 minutes
